@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Port/static/css/main.c1c6e690.css",
+    "main.js": "/Port/static/js/main.9756dd02.js",
+    "static/js/453.cc683603.chunk.js": "/Port/static/js/453.cc683603.chunk.js",
+    "static/media/Elhoot-cv.pdf": "/Port/static/media/Elhoot-cv.d3e710d3da7c54325186.pdf",
+    "static/media/photo2.jpg": "/Port/static/media/photo2.bbdb61719b3fb0e004f3.jpg",
+    "static/media/ph.jpg": "/Port/static/media/ph.943d22e45745e4367bfe.jpg",
+    "static/media/testimonial3.png": "/Port/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Port/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Port/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Port/index.html",
+    "main.c1c6e690.css.map": "/Port/static/css/main.c1c6e690.css.map",
+    "main.9756dd02.js.map": "/Port/static/js/main.9756dd02.js.map",
+    "453.cc683603.chunk.js.map": "/Port/static/js/453.cc683603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c6e690.css",
+    "static/js/main.9756dd02.js"
+  ]
+}
