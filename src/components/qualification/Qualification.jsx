@@ -49,14 +49,16 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                        <div>
-                         <h3 className="qualification__title">Web Design</h3>
+                         <h3 className="qualification__title">Bachelor's Degree — Information Systems</h3>
                             <li 
                             className="qualification__subtitle">
-                            Full stack development
+                             Nile Institute for Science and Technology
+                            Department of Administrative and Information Systems — Grade: Very Good
+                            📅 2018 – 2022
                             </li>
                             <div className="qualification__calender">
                                 <span className="uil uil-calendar">
-                                A graduate systems and information
+                                
                                 </span>
                             </div>
                         </div>
@@ -76,36 +78,35 @@ const Qualification = () => {
                         </div>
 
                        <div>
-                         <h3 className="qualification__title">TRAINING </h3>
-                            <li
-                            className="qualification__subtitle">
-                                ITSHARE: training
-                                center,Mansoura.</li> 
-                            <li 
-                            className="qualification__subtitle">
-                                Full stack development.</li>
-                            <div className="qualification__calender">
+                         <h3 className="qualification__title">Freelance Full Stack Developer </h3>
+                         <li className="qualification__subtitle">
+                                  📅 Upwork & Medianesta
+                                </li>
+
+                                <span className="qualification__calendar">
+                                     📅 Ongoing
+                                </span>
+
+                                <p className="qualification__description">
+                                    Delivered full-stack web applications using PHP/Laravel and React.js. Managed projects independently from requirements to deployment.
+                                </p>
+
+                            {/* <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt">
-                                </i> 2019 - 2022
-                            </div>
+                                </i> 2021 - 2026
+                            </div> */}
                         </div>
                     </div>
                 
                   <div className="qualification__data">
-                       <div>
-                         <h3 className="qualification__title"> MICROSOFT OFFICE
-                            </h3>
-                            <li
-                            className="qualification__subtitle">
-                                ICDL: Mansoura University. 
-                                </li> 
-                            <div className="qualification__calender">
-                            <li 
-                            className="qualification__subtitle">
-                                word , Excel , Powerpoint. 
-                                </li>
-                            </div>
-                        </div>
+                      <div>
+                        <h3>Back-End Development Course</h3>
+                        <p>Black Horse Courses</p>
+                        <span>📅 March – June 2026 | Grade: Excellent</span>
+                        <a href="certificates/black-horse.pdf" target="_blank" rel="noopener noreferrer">
+                            View Certificate →
+                        </a>
+                    </div>
 
                         <div>
                             <span className="qualification__rounder"></span>
@@ -125,11 +126,13 @@ const Qualification = () => {
                          <h3 className="qualification__title">SKILLS AND TECHNOLOGY</h3>
                             <li 
                             className="qualification__subtitle">
-                                Proficient in programming languages and frameworks.</li>
+                                 Full Stack web development using React.js, PHP, and Laravel.
+                             - Building and consuming RESTful APIs.</li>
                             <div className="qualification__calender">
                             <li 
                             className="qualification__subtitle">
-                                Smartphone application developer software.</li>
+                               Database design and management with MySQL.
+                                - Version control and collaboration using Git & GitHub.</li>
                             </div>
                         </div>
                     </div>
@@ -142,15 +145,15 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                        <div>
-                         <h3 className="qualification__title">Product
-                            Designer
+                         <h3 className="qualification__title">Freelance 
+                            Full Stack Developer
                          </h3>
                             <li 
-                            className="qualification__subtitle">Microsoft - Cairo
+                            className="qualification__subtitle">Upwork & Medianesta
                             </li>
                             <div className="qualification__calender">
-                                <li className="uil uil-calendar"> 2023 -
-                                Present
+                                <li className="uil uil-calendar"> 📅 Ongoing
+                                
                                 </li>
                             </div>
                         </div>
@@ -170,29 +173,30 @@ const Qualification = () => {
                         </div>
 
                        <div>
-                         <h3 className="qualification__title">COMPUTER SKILLS: </h3>
+                         <h3 className="qualification__title">Skills and Technology </h3>
                             <li
                             className="qualification__subtitle">
-                                Microsoft office.</li> 
+                                Full Stack web development using React.js, PHP, and Laravel
+                                Building and consuming RESTful APIs.</li> 
                             <li 
                             className="qualification__subtitle">
-                                Internet browser.</li>
+                               Database design and management with MySQL
+                                Version control and collaboration using Git & GitHub.</li>
                             
                         </div>
                     </div>
                 
                   <div className="qualification__data">
                        <div>
-                         <h3 className="qualification__title"> Web Designer
+                         <h3 className="qualification__title"> Full Stack Development Training
                             </h3>
                             <li
                             className="qualification__subtitle">
-                                Figma - Mansoura
+                                ITSHARE Training Center, Mansoura
                                 </li> 
-                            <div className="qualification__calender">
-                            <i className="uil uil-calendar-alt"></i>2021 -
-                             2023
-                            </div>
+                           <li className="uil uil-calendar"> 📅 2019 – 2022
+                                
+                                </li>
                         </div>
 
                         <div>

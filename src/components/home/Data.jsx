@@ -54,11 +54,9 @@ const Data = () => {
                   ></path>
          </svg>        
         </h1>
-        <h3 className='home__subtitle'>Visual Designer</h3>
+        <h3 className='home__subtitle'>Full Stack Developer</h3>
         <p className="home__description">
-        Creating website product projects.
-        Proficient in programming languages and frameworks
-        Dealing with Microsoft , WORD , EXCLE , POWERPOINT.
+        Full Stack Developer specializing in React.js, Laravel, and MySQL — building web applications end-to-end, from database to user interface.
         </p>
 
         <a href="#contact" className='button button--flex'>

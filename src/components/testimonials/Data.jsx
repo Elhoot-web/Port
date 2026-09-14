@@ -6,17 +6,17 @@ export const Data = [
     {
         id: 1,
         image: Image1,
-        title: "Elhoot",
+        title: "James Anderson",
         description:
-        "A really good job, all aspects of the project were followed step and with god results.",
+        "“Great work, very professional and fastAmazing website and great communication“"
     },
 
     {
         id: 2,
         image: Image2,
-        title: "Harry Clinton",
+        title: "Emily Carter",
         description:
-        "A really good job, all aspects of the project were followed step and with god results.",
+        "“He did exactly what I needed. Highly recommended!Clean design and excellent results“",
     },
 
     {
@@ -24,7 +24,7 @@ export const Data = [
         image: Image3,
         title: "Harry Clinton",
         description:
-        "A really good job, all aspects of the project were followed step and with god results.",
+        "“Very talented developer. Great experience!Fast delivery and high-quality work.Really happy with the final result!”",
     },
 
   

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css";
 import AboutImg from "../../assets/photo2.jpg";
-import CV from "../../assets/Elhoot-cv.pdf";
+import CV from "../../assets/Mohamed_Mahmoud_CV .pdf";
 import Info from './Info';
 
 const About = () => {
@@ -17,11 +17,7 @@ const About = () => {
                     <Info/>
 
                     <p className="about__description">
-                    Programmer: designing websites, making website projects,
-                    dealing with office programs, making software for phones and
-                    operating systems, and a bodybuilding trainer.
-                    I am a private online and offline coach, and I have experience
-                    in swimming and other sports.
+                    Full Stack Developer with experience designing and building complete web applications — from database architecture to responsive front-end interfaces. I work with React.js, PHP/Laravel, and Node.js to turn ideas into fast, functional products, and I'm comfortable managing freelance projects end-to-end.
                     </p>
 
                     <a download="" href={CV} className="button button--flex">
