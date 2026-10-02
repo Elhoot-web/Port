@@ -17,8 +17,10 @@ const About = () => {
                     <Info/>
 
                     <p className="about__description">
-                    Full Stack Developer with experience designing and building complete web applications — from database architecture to responsive front-end interfaces. I work with React.js, PHP/Laravel, and Node.js to turn ideas into fast, functional products, and I'm comfortable managing freelance projects end-to-end.
-                    </p>
+                 I’m a Back-End Developer focused on building scalable and reliable web applications using PHP and Laravel.
+                  I have hands-on experience with RESTful APIs, MySQL databases, authentication, business logic, and database design.
+                  I enjoy turning requirements into clean and practical back-end solutions.
+                                      </p>
 
                     <a download="" href={CV} className="button button--flex">
                       Download CV

@@ -17,7 +17,7 @@ const Services = () => {
                <div>
                     <i className="uil uil-web-grid services__icon"></i>
                     <h3 className="services__title">
-                        Front-End <br /> Development
+                        Back-End <br /> Development
                     </h3>
                 </div>
                 <span className="services__button" onClick={() => 
@@ -32,11 +32,11 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil uil-times 
                         services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Front-End  
+                        <h3 className="services__modal-title">Back-End  
                         Development</h3>
                         <p className="services__modal-description">
-                       Building responsive, fast, and user-friendly interfaces with more than 4 years 
-                       of experience, using modern tools to bring designs to life.
+                      Building reliable web applications and server-side solutions 
+                      using PHP and Laravel, with a focus on clean code and business logic.
                         </p>
                         
                         <ul className="services__modal-services grid">
@@ -44,7 +44,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I build responsive user interfaces using React.js.
+                                        Developing back-end functionality using PHP.
                                  </p>
                             </li>
 
@@ -52,7 +52,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I implement designs with Tailwind CSS and Bootstrap.
+                                        Building web applications with Laravel.
                                  </p>
                             </li>
 
@@ -61,7 +61,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                       I ensure fast performance and smooth user experience.
+                                       Implementing business logic and CRUD operations.
                                  </p>
                             </li>
 
@@ -69,7 +69,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I integrate front-end apps with back-end APIs.
+                                        Creating and integrating RESTful APIs.
                                  </p>
                             </li>
 
@@ -77,7 +77,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                      I fix bugs and optimize existing interfaces.
+                                      Writing clean and maintainable server-side code.
                                  </p>
                             </li>
                         </ul>
@@ -89,7 +89,7 @@ const Services = () => {
                  <div>
                 <i className="uil uil-server-network services__icon"></i>
                 <h3 className="services__title">
-                    Back-End <br /> Development
+                    Database <br /> Development
                 </h3>
                 </div>
 
@@ -104,10 +104,10 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Back-End Development</h3>
+                        <h3 className="services__modal-title">Database Development</h3>
                         <p className="services__modal-description">
-                       Building robust, secure server-side systems with more than 4 years of experience,
-                        delivering reliable solutions for clients and companies.
+                       Designing and managing relational databases to support 
+                       efficient and reliable web applications.
                         </p>
                         
                         <ul className="services__modal-services grid">
@@ -115,7 +115,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I build RESTful APIs using PHP/Laravel and Node.js.
+                                        Designing relational database schemas.
                                  </p>
                             </li>
 
@@ -123,7 +123,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I design and manage relational databases with MySQL.
+                                        Writing and managing MySQL queries.
                                  </p>
                             </li>
 
@@ -133,7 +133,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                       I implement authentication and authorization systems.
+                                       Handling data relationships and database operations.
                                  </p>
                             </li>
 
@@ -141,7 +141,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                       I handle payment integration and order management.
+                                       Managing product, user, and order data.
                                  </p>
                             </li>
 
@@ -149,7 +149,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                       I write clean, maintainable, and well-structured code.
+                                      Managing database operations for web applications.
                                  </p>
                             </li>
                         </ul>
@@ -161,7 +161,7 @@ const Services = () => {
              <div>
             <i className="uil uil-layer-group services__icon"></i>
             <h3 className="services__title">
-                Full Stack <br /> Solutions
+                Web Application <br /> Solutions
             </h3>
             </div>
 
@@ -177,11 +177,11 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil 
                         uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Full Stack Web  
-                            Applications </h3>
+                        <h3 className="services__modal-title">Web Application Solutions  
+                             </h3>
                         <p className="services__modal-description">
-                        Delivering complete web solutions from database to interface, with more than
-                         4 years of experience managing projects end-to-end.
+                       Delivering complete back-end solutions for web applications,
+                        from database design to API delivery and deployment.
                         </p>
                         
                         <ul className="services__modal-services grid">
@@ -197,7 +197,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                       I connect front-end and back-end into one seamless product.
+                                       Building content management systems.
                                  </p>
                             </li>
 
@@ -205,7 +205,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I deploy and maintain live applications.
+                                       Implementing shopping cart and order logic.
                                  </p>
                             </li>
 
@@ -213,7 +213,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I manage freelance projects independently, from requirements to delivery.
+                                        Managing projects from requirements through deployment.
                                  </p>
                             </li>
 
@@ -221,7 +221,7 @@ const Services = () => {
                                 <i className="uil uil-check-circle 
                                  services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I troubleshoot and scale existing applications.
+                                        Delivering solutions from requirements through deployment
                                  </p>
                             </li>
                         </ul>

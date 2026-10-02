@@ -78,7 +78,7 @@ const Qualification = () => {
                         </div>
 
                        <div>
-                         <h3 className="qualification__title">Freelance Full Stack Developer </h3>
+                         <h3 className="qualification__title">Freelance Back-End Developer </h3>
                          <li className="qualification__subtitle">
                                   📅 Upwork & Medianesta
                                 </li>
@@ -88,7 +88,9 @@ const Qualification = () => {
                                 </span>
 
                                 <p className="qualification__description">
-                                    Delivered full-stack web applications using PHP/Laravel and React.js. Managed projects independently from requirements to deployment.
+                                    Delivered back-end systems and APIs for freelance clients using PHP and Laravel.
+                                    Designed and managed relational databases with MySQL.
+                                    Managed projects independently, from requirements through deployment.
                                 </p>
 
                             {/* <div className="qualification__calender">
@@ -123,11 +125,12 @@ const Qualification = () => {
                         </div>
 
                        <div>
-                         <h3 className="qualification__title">SKILLS AND TECHNOLOGY</h3>
+                         <h3 className="qualification__title">Back-End Skills & Technologies</h3>
                             <li 
                             className="qualification__subtitle">
-                                 Full Stack web development using React.js, PHP, and Laravel.
-                             - Building and consuming RESTful APIs.</li>
+                               Back-end development using PHP and Laravel, with a focus on RESTful APIs, business logic, and relational databases.
+
+                                Database design and management using MySQL. Version control and collaboration using Git & GitHub.</li>
                             <div className="qualification__calender">
                             <li 
                             className="qualification__subtitle">
@@ -145,8 +148,8 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                        <div>
-                         <h3 className="qualification__title">Freelance 
-                            Full Stack Developer
+                         <h3 className="qualification__title">Freelance Back-End Developer
+                            
                          </h3>
                             <li 
                             className="qualification__subtitle">Upwork & Medianesta
@@ -173,28 +176,32 @@ const Qualification = () => {
                         </div>
 
                        <div>
-                         <h3 className="qualification__title">Skills and Technology </h3>
+                         <h3 className="qualification__title">Back-End Skills & Technologies </h3>
                             <li
                             className="qualification__subtitle">
-                                Full Stack web development using React.js, PHP, and Laravel
-                                Building and consuming RESTful APIs.</li> 
+                               Back-end development using PHP and Laravel, with a focus on RESTful APIs, 
+                               business logic, and relational databases..</li> 
                             <li 
                             className="qualification__subtitle">
-                               Database design and management with MySQL
-                                Version control and collaboration using Git & GitHub.</li>
+                              Database design and management using MySQL. 
+                              Version control and collaboration using Git & GitHub..</li>
                             
                         </div>
                     </div>
                 
                   <div className="qualification__data">
                        <div>
-                         <h3 className="qualification__title"> Full Stack Development Training
+                         <h3 className="qualification__title"> Back-End Development Course
                             </h3>
                             <li
                             className="qualification__subtitle">
-                                ITSHARE Training Center, Mansoura
+                                Black Horse Courses
+                                    Back-End Development Course
+                                    Grade: Excellent
+                                    ITSHARE Training Center, Mansoura
+                                    Back-End Development Course
                                 </li> 
-                           <li className="uil uil-calendar"> 📅 2019 – 2022
+                           <li className="uil uil-calendar"> 
                                 
                                 </li>
                         </div>

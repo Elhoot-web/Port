@@ -54,9 +54,10 @@ const Data = () => {
                   ></path>
          </svg>        
         </h1>
-        <h3 className='home__subtitle'>Full Stack Developer</h3>
+        <h3 className='home__subtitle'>Back-End Developer</h3>
         <p className="home__description">
-        Full Stack Developer specializing in React.js, Laravel, and MySQL — building web applications end-to-end, from database to user interface.
+       Back-End Developer specializing in PHP, Laravel, and MySQL. I build RESTful APIs, relational databases,
+        authentication systems, and reliable server-side applications.
         </p>
 
         <a href="#contact" className='button button--flex'>
